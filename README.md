@@ -1,10 +1,6 @@
-# COS201--Computer-Programming--1
-Practical exercises for COS201 Computer Programming
 # COS-201--Computer-Programming-1
 Practical Exercises for COS 201 Computer Programming
-
-# COS 201 — Computer Programming I
-## Student Information WEEK03
+## Student Information 
 Name: OBIANUMBA DANIEL CHIBUIKE PRINCE 
 - Matriculation Number: 25/17324
 - Programme: BSC COMPUTER SCIENCE 
